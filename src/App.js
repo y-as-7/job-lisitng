@@ -7,7 +7,7 @@ function App() {
   useEffect(() => setJobs(data), []);
 
   return (
-    <div>
+    <div className="bg-blue-100">
       {jobs.length === 0 ? (
         <p>jobs are fetching</p>
       ) : (
