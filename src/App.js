@@ -8,6 +8,9 @@ function App() {
 
   return (
     <div className="bg-blue-100">
+      <header className="bg-teal-500 mb-12 ">
+        <img src="/images/bg-header-desktop.svg" alt=""/>
+      </header>
       {jobs.length === 0 ? (
         <p>jobs are fetching</p>
       ) : (
