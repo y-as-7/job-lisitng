@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/job-lisitng/static/css/main.8e107e0d.css",
+    "main.js": "/job-lisitng/static/js/main.73d3c69c.js",
+    "index.html": "/job-lisitng/index.html",
+    "main.8e107e0d.css.map": "/job-lisitng/static/css/main.8e107e0d.css.map",
+    "main.73d3c69c.js.map": "/job-lisitng/static/js/main.73d3c69c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e107e0d.css",
+    "static/js/main.73d3c69c.js"
+  ]
+}
