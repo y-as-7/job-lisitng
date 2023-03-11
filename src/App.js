@@ -38,9 +38,9 @@ function App() {
   return (
     <>
       <header className="w-full bg-teal-500 mb-12 ">
-        <img src="/images/bg-header-desktop.svg" alt="" />
+        <img src="./images/bg-header-desktop.svg" alt="" />
       </header>
-      <div className="container m-auto">
+      <div className="container m-auto bg-blue-100">
         {filters.length > 0 && (
           <div className=" flex flex-wrap bg-white shadow-md flex -my-20 z-10 relative mb-16 mx-10 p-6 rounded">
             {filters.map((filter) => (
